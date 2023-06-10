@@ -17,3 +17,5 @@ Projeto -[ok] Etapa 3
 • Pesquisar 3 filtros, e: • Descrever o funcionamento de cada um deles • Aplicar cada filtro em uma mesma imagem com 3 configurações diferentes • Analisar os resultados obtidos
 
 • No artigo selecionado para o projeto: • Quais os filtros aplicados? Explique a justificativa de sua aplicação no problema. Sombra? • Caso o seu atrigo não adote filtros, analise se eles seriam úteis ao problema, justificando sua recomendação.
+
+Etapa 3 doc- https://docs.google.com/document/d/1yd5iB__LhAk41OvyRwW8RMRcGAsobSo3eAhfmr3SCV8/edit#heading=h.nw7d2tyxpu3w
