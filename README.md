@@ -11,9 +11,9 @@ Artigo escolhido: https://www.floram.org/article/588e225de710ab87018b4753/pdf/fl
 Projeto – Etapa II
 • Implementar: [OK] • Carregamento de imagem [OK] • Aplicação de escala de cinza [OK] • Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)[ok] • Manipular a imagem em cinza na forma de matriz[ok] • Mínimo valor de cinza [ok] • Máximo valor de cinza [ok] • Percentuais de cada valor de cinza na imagem[ok]
 
-• Aplicar: • Use a aplicação criada para processar 10 imagens com escala de cinza[ok] • Para cada imagem, identifique:[ok] • Mínimo valor de cinza[ok] • Máximo valor de cinza[ok] • Percentuais de cada valor de cinza encontrado na imagem[ok] • Construa o histograma de valores de cinza de cada imagem • Faça uma analise comparativa entre as imagens.
+• Aplicar: • Use a aplicação criada para processar 10 imagens com escala de cinza[ok] • Para cada imagem, identifique:[ok] • Mínimo valor de cinza[ok] • Máximo valor de cinza[ok] • Percentuais de cada valor de cinza encontrado na imagem[ok] • Construa o histograma de valores de cinza de cada imagem • Faça uma analise comparativa entre as imagens[ok].
 
-Projeto - Etapa 3
+Projeto -[ok] Etapa 3
 • Pesquisar 3 filtros, e: • Descrever o funcionamento de cada um deles • Aplicar cada filtro em uma mesma imagem com 3 configurações diferentes • Analisar os resultados obtidos
 
 • No artigo selecionado para o projeto: • Quais os filtros aplicados? Explique a justificativa de sua aplicação no problema. Sombra? • Caso o seu atrigo não adote filtros, analise se eles seriam úteis ao problema, justificando sua recomendação.
