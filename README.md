@@ -1,5 +1,5 @@
 Projeto – Etapa I
-• Registrar equipe até trios. •[I'm an inline-style link](https://docs.google.com/document/d/1J_Bs3OgJRjSYGFnBJaFVwTny8A9E4fvwJX5gFtiR8nA/edit?usp=sharing)
+•[Registro de Equipes](https://docs.google.com/document/d/1J_Bs3OgJRjSYGFnBJaFVwTny8A9E4fvwJX5gFtiR8nA/edit?usp=sharing)
 
 • Escolher um artigo científico que aplique técnicas de PDI. • Sugestões de bases: • https://sol.sbc.org.br/index.php/indice • https://scholar.google.com.br/
 
