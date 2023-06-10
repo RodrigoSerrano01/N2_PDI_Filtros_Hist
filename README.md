@@ -4,6 +4,7 @@ Projeto – Etapa I
 • Escolher um artigo científico que aplique técnicas de PDI. • Sugestões de bases: •[Link 1](https://sol.sbc.org.br/index.php/indice) • [Link 2](https://scholar.google.com.br/)
 
 Artigo escolhido: [Artigo Escolhido](https://www.floram.org/article/588e225de710ab87018b4753/pdf/floram-6-%C3%BAnico-38.pdf)
+
 • IMPORTANTE: artigos repetidos não serão considerados.
 
 • Ler e analisar o artigo, descrevendo como cada um dos passos de PDI foi realizado. [OK] -
