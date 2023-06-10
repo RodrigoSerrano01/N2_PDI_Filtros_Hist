@@ -20,12 +20,23 @@ Projeto – Etapa II
 - [x] Máximo valor de cinza 
 - [x] Percentuais de cada valor de cinza na imagem
 
-• Aplicar: • Use a aplicação criada para processar 10 imagens com escala de cinza[ok] • Para cada imagem, identifique:[ok] • Mínimo valor de cinza[ok] • Máximo valor de cinza[ok] • Percentuais de cada valor de cinza encontrado na imagem[ok] • Construa o histograma de valores de cinza de cada imagem • Faça uma analise comparativa entre as imagens[ok].
+• Aplicar: 
+- [x] Use a aplicação criada para processar 10 imagens com escala de cinza
+- [x] Para cada imagem, identifique:[ok] • Mínimo valor de cinza
+- [x] Máximo valor de cinza
+- [x] Percentuais de cada valor de cinza encontrado na imagem
+- [x] Construa o histograma de valores de cinza de cada imagem 
+- [x] Faça uma analise comparativa entre as imagens.
 
-Projeto -[ok] Etapa 3 [Documento etapa 3](https://docs.google.com/document/d/1yd5iB__LhAk41OvyRwW8RMRcGAsobSo3eAhfmr3SCV8/edit#heading=h.nw7d2tyxpu3w)
+Projeto - Etapa 3 [Documento etapa 3](https://docs.google.com/document/d/1yd5iB__LhAk41OvyRwW8RMRcGAsobSo3eAhfmr3SCV8/edit#heading=h.nw7d2tyxpu3w)
 
-• Pesquisar 3 filtros, e: • Descrever o funcionamento de cada um deles • Aplicar cada filtro em uma mesma imagem com 3 configurações diferentes • Analisar os resultados obtidos
+- [x] Pesquisar 3 filtros, e:
+- [x] Descrever o funcionamento de cada um deles 
+- [x] Aplicar cada filtro em uma mesma imagem com 3 configurações diferentes 
+- [x] Analisar os resultados obtidos
 
-• No artigo selecionado para o projeto: • Quais os filtros aplicados? Explique a justificativa de sua aplicação no problema. Sombra? • Caso o seu atrigo não adote filtros, analise se eles seriam úteis ao problema, justificando sua recomendação.
+• No artigo selecionado para o projeto:
+- [x] Quais os filtros aplicados? Explique a justificativa de sua aplicação no problema. Sombra?
+- [x] Caso o seu atrigo não adote filtros, analise se eles seriam úteis ao problema, justificando sua recomendação.
 
 
