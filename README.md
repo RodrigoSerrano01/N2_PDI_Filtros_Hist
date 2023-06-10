@@ -1,5 +1,5 @@
 Projeto – Etapa I
-• Registrar equipe até trios. • https://docs.google.com/document/d/1J_Bs3OgJRjSYGFnBJaFVwTny8A9E4fvwJX5gFtiR8nA/edit?usp=sharing
+• Registrar equipe até trios. •[I'm an inline-style link](https://docs.google.com/document/d/1J_Bs3OgJRjSYGFnBJaFVwTny8A9E4fvwJX5gFtiR8nA/edit?usp=sharing)
 
 • Escolher um artigo científico que aplique técnicas de PDI. • Sugestões de bases: • https://sol.sbc.org.br/index.php/indice • https://scholar.google.com.br/
 
@@ -7,7 +7,7 @@ Artigo escolhido: https://www.floram.org/article/588e225de710ab87018b4753/pdf/fl
 • IMPORTANTE: artigos repetidos não serão considerados.
 
 • Ler e analisar o artigo, descrevendo como cada um dos passos de PDI foi realizado. [PENDENTE] -
-<a href=“[http://exemplo.com/](https://docs.google.com/document/d/1OVuv2Z7KwRMV8kVq1aXxxHP-X93M0vE5DH8H8frfDhw/edit )“>Resposta</a>
+“[http://exemplo.com/](https://docs.google.com/document/d/1OVuv2Z7KwRMV8kVq1aXxxHP-X93M0vE5DH8H8frfDhw/edit
 
 Projeto – Etapa II
 • Implementar: [OK] • Carregamento de imagem [OK] • Aplicação de escala de cinza [OK] • Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)[ok] • Manipular a imagem em cinza na forma de matriz[ok] • Mínimo valor de cinza [ok] • Máximo valor de cinza [ok] • Percentuais de cada valor de cinza na imagem[ok]
