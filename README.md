@@ -12,13 +12,13 @@ Artigo escolhido: [Artigo Escolhido](https://www.floram.org/article/588e225de710
 
 Projeto – Etapa II
 - [x] Implementar: 
-• Carregamento de imagem [OK] 
-• Aplicação de escala de cinza [OK] 
-•Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)[ok]
-• Manipular a imagem em cinza na forma de matriz[ok] 
-• Mínimo valor de cinza [ok] 
-• Máximo valor de cinza [ok] 
-• Percentuais de cada valor de cinza na imagem[ok]
+- [x] Carregamento de imagem 
+- [x] Aplicação de escala de cinza
+- [x] Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)
+- [x] Manipular a imagem em cinza na forma de matriz 
+- [x] Mínimo valor de cinza
+- [x] Máximo valor de cinza 
+- [x] Percentuais de cada valor de cinza na imagem
 
 • Aplicar: • Use a aplicação criada para processar 10 imagens com escala de cinza[ok] • Para cada imagem, identifique:[ok] • Mínimo valor de cinza[ok] • Máximo valor de cinza[ok] • Percentuais de cada valor de cinza encontrado na imagem[ok] • Construa o histograma de valores de cinza de cada imagem • Faça uma analise comparativa entre as imagens[ok].
 
