@@ -11,7 +11,7 @@
 • IMPORTANTE: artigos repetidos não serão considerados.
 
 • Ler e analisar o artigo, descrevendo como cada um dos passos de PDI foi realizado. [OK] -
-[Resposta](https://docs.google.com/document/d/1OVuv2Z7KwRMV8kVq1aXxxHP-X93M0vE5DH8H8frfDhw/edit)
+[Resposta](https://docs.google.com/document/d/1OVuv2Z7KwRMV8kVq1aXxxHP-X93M0vE5DH8H8frfDhw/edit?usp=sharing)
 
 **Projeto – Etapa II**
 - [x] Implementar: 
@@ -31,7 +31,7 @@
 - [x] Construa o histograma de valores de cinza de cada imagem 
 - [x] Faça uma analise comparativa entre as imagens.
 
-**Projeto - Etapa 3** [Documento etapa 3](https://docs.google.com/document/d/1yd5iB__LhAk41OvyRwW8RMRcGAsobSo3eAhfmr3SCV8/edit#heading=h.nw7d2tyxpu3w)
+**Projeto - Etapa 3** [Documento etapa 3](https://docs.google.com/document/d/1yd5iB__LhAk41OvyRwW8RMRcGAsobSo3eAhfmr3SCV8/edit?usp=sharing)
 
 - [x] Pesquisar 3 filtros, e:
 - [x] Descrever o funcionamento de cada um deles 
