@@ -11,7 +11,7 @@ Artigo escolhido: [Artigo Escolhido](https://www.floram.org/article/588e225de710
 [Resposta](https://docs.google.com/document/d/1OVuv2Z7KwRMV8kVq1aXxxHP-X93M0vE5DH8H8frfDhw/edit)
 
 Projeto – Etapa II
-• - [x] Implementar: 
+- [x] Implementar: 
 • Carregamento de imagem [OK] 
 • Aplicação de escala de cinza [OK] 
 •Apresentação das propriedades da imagem (ex. dimensão, valores de cinza, etc.)[ok]
